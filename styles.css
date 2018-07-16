@@ -1,0 +1,21 @@
+
+div.grid {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.grid:hover {
+    border: 1px solid #777;
+}
+
+div.grid img {
+    width: 100%;
+    height: auto;
+}
+
+div.metaText {
+    padding: 15px;
+    text-align: center;
+}
