@@ -1,9 +1,9 @@
 
 div.grid {
-    margin: 5px;
+    margin: 10px;
     border: 1px solid #82ccdd;
     float: left;
-    width: 180px;
+    width: 200px;
 }
 
 div.grid:hover {
